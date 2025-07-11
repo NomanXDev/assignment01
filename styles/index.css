@@ -43,3 +43,21 @@ a{
     background: none;
     color: #4E47FF;
 }
+header{
+    background: url(../assets/Hero-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+/* Hero Section */
+.hero_main{
+    padding: 160px 0;
+    text-align: center;
+}
+.hero_main h1{
+    font-size: 65px;
+    font-weight: bold;
+    width: 80%;
+    margin: 0 auto;
+    padding-bottom: 37px;
+}
